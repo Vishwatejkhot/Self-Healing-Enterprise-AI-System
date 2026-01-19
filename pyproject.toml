@@ -1,0 +1,25 @@
+[project]
+name = "aegisai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faiss-cpu>=1.13.2",
+    "fastapi>=0.128.0",
+    "flask>=3.1.2",
+    "langchain>=1.2.6",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.7",
+    "langchain-groq>=1.1.1",
+    "langchain-openai>=1.1.7",
+    "langchain-text-splitters>=1.1.0",
+    "numpy>=2.4.1",
+    "prometheus-client>=0.24.1",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.1",
+    "sentence-transformers>=5.2.0",
+    "tqdm>=4.67.1",
+    "unstructured>=0.18.27",
+    "uvicorn>=0.40.0",
+]

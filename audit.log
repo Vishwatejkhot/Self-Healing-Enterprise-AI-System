@@ -1,0 +1,14 @@
+{"time": 1768756557.695661, "event": "self_heal", "payload": {"reason": "Retrieval drift"}}
+{"time": 1768756576.2416222, "event": "self_heal", "payload": {"reason": "Retrieval drift"}}
+{"time": 1768756691.7551126, "event": "self_heal", "payload": {"reason": "Retrieval drift"}}
+{"time": 1768756819.4443438, "event": "self_heal", "payload": {"reason": "Retrieval drift"}}
+{"time": 1768756827.8293238, "event": "self_heal", "payload": {"reason": "Retrieval drift"}}
+{"time": 1768764811.8035927, "event": "self_heal", "payload": {"reason": "Retrieval drift"}}
+{"time": 1768764843.3444123, "event": "self_heal", "payload": {"reason": "Retrieval drift"}}
+{"time": 1768765259.336747, "event": "success", "payload": {"query": "Is remote work allowed?"}}
+{"time": 1768765676.7553327, "event": "success", "payload": {"query": "Is remote work allowed?"}}
+{"time": 1768765763.2087524, "event": "success", "payload": {"query": "Is remote work allowed?"}}
+{"time": 1768765864.6538997, "event": "success", "payload": {"query": "How often should API keys be rotated?"}}
+{"time": 1768765900.059011, "event": "self_heal", "payload": {"reason": "Prompt"}}
+{"time": 1768766178.6010752, "event": "success", "payload": {"query": "Is remote work allowed?"}}
+{"time": 1768766903.5323188, "event": "success", "payload": {"query": "Is remote work allowed?"}}

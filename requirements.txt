@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+sentence-transformers
+pydantic
+python-dotenv
+prometheus-client
+tqdm
+flask  
+langchain-core
+unstructured 
+langchain-groq
