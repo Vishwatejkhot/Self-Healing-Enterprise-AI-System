@@ -1,0 +1,5 @@
+Incident 2023-11-01:
+Payment API returned outdated status fields causing client failures.
+
+Incident 2024-02-12:
+Expired API keys caused authentication failures across services.

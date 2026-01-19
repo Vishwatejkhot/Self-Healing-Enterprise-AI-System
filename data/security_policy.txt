@@ -1,0 +1,4 @@
+All internal systems must enforce role-based access control.
+Sensitive customer data must be encrypted at rest and in transit.
+API keys must be rotated every 90 days.
+Only authorized services may access production databases.
