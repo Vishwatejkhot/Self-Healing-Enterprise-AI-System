@@ -2,7 +2,7 @@
 # 🛡️ AegisAI – Self-Healing Enterprise AI System
 
 AegisAI is a **self-healing Retrieval-Augmented Generation (RAG) system** built for enterprise use.  
-It answers questions strictly from internal documents, detects uncertainty or failures, and automatically repairs itself — **without blocking the user experience**.
+It answers questions strictly from internal documents, detects uncertainty or failures, and automatically repairs itself **without blocking the user experience**.
 
 This project demonstrates **production-grade AI engineering**, focusing on reliability, safety, and observability rather than just chatbot responses.
 
