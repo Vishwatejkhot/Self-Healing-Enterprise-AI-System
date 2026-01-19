@@ -103,13 +103,14 @@ AegisAI/
 
 ### 1️⃣ Create virtual environment
 ```bash
-python -m venv .venv
+uv init
+uv venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 ```
 
 ### 2️⃣ Install dependencies
 ```bash
-pip install -r requirements.txt
+uv add -r requirements.txt
 ```
 
 ### 3️⃣ Add your Groq API key
